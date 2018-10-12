@@ -1,6 +1,0 @@
-D:\004WorkSpaces\VS2017_WorkSpace\XiaLM.AI\XiaLM.XunFeiAIUI\bin\Debug\XiaLM.XunFeiAIUI.dll
-D:\004WorkSpaces\VS2017_WorkSpace\XiaLM.AI\XiaLM.XunFeiAIUI\bin\Debug\XiaLM.XunFeiAIUI.pdb
-D:\004WorkSpaces\VS2017_WorkSpace\XiaLM.AI\XiaLM.XunFeiAIUI\obj\Debug\XiaLM.XunFeiAIUI.csprojAssemblyReference.cache
-D:\004WorkSpaces\VS2017_WorkSpace\XiaLM.AI\XiaLM.XunFeiAIUI\obj\Debug\XiaLM.XunFeiAIUI.csproj.CoreCompileInputs.cache
-D:\004WorkSpaces\VS2017_WorkSpace\XiaLM.AI\XiaLM.XunFeiAIUI\obj\Debug\XiaLM.XunFeiAIUI.dll
-D:\004WorkSpaces\VS2017_WorkSpace\XiaLM.AI\XiaLM.XunFeiAIUI\obj\Debug\XiaLM.XunFeiAIUI.pdb
