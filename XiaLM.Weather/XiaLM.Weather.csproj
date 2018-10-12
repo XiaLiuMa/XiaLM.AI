@@ -39,9 +39,8 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
-    <Reference Include="XiaLM.Tool450, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\XiaLM.Test\XiaLM.Tool450\bin\Debug\XiaLM.Tool450.dll</HintPath>
+    <Reference Include="XiaLM.Tool450">
+      <HintPath>..\..\XiaLM.Utility\XiaLM.Tool450\bin\Debug\XiaLM.Tool450.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
