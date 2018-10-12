@@ -1,2 +1,2 @@
 # XiaLM.AI
-个人AI库
+个人AI类库
