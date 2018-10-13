@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace XiaLM.XunFeiAIUI
+namespace XiaLM.XfSpeech.WebApi
 {
     public class Class1
     {
