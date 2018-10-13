@@ -52,7 +52,7 @@ namespace XiaLM.XfSpeech.SDK
             {
                 string usr = string.Empty;
                 string pwd = string.Empty;
-                string param = "appid = 5b065027, work_dir = .";    //登录参数,appid与msc库绑定,请勿随意改动
+                string param = "appid = 5bc1aca2, work_dir = .";    //登录参数,appid与msc库绑定,请勿随意改动
                 var code = MSP_CMN_DLL.MSPLogin(usr, pwd, param);
                 if (code == 0)
                 {

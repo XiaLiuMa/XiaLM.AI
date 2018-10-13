@@ -14,7 +14,8 @@ namespace XiaLM.FormTest
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new MainForm());
-            Application.Run(new MicrosoftSpeech.MainForm());
+            //Application.Run(new MicrosoftSpeech.MainForm());
+            Application.Run(new XfSpeechSDK.MainForm());
         }
     }
 }
