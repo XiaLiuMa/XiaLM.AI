@@ -11,7 +11,8 @@ namespace XiaLM.MicrosoftSpeech.SpeedASR
         /// <summary>
         /// The fetch token URI
         /// </summary>
-        private const string FetchTokenUri = "https://api.cognitive.microsoft.com/sts/v1.0";
+        //private const string FetchTokenUri = "https://api.cognitive.microsoft.com/sts/v1.0";
+        private const string FetchTokenUri = "https://eastasia.api.cognitive.microsoft.com/sts/v1.0";
 
         public AsrCheckKeyProvider(string apikey)
         {

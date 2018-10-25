@@ -179,7 +179,7 @@ namespace XiaLM.FormTest.MicrosoftSpeech
         {
             Task.Factory.StartNew(async () =>
             {
-                AsrClient asrClient = new AsrClient("3a1ec26757b94a84af648ac1f88cb95f");
+                AsrClient asrClient = new AsrClient("0549ec95cfb14f9f911562949117c4e3");
                 asrClient.ReturnPartialResult += (s) => //部份识别完成
                 {
                     this.Invoke(new Action(() =>
@@ -213,7 +213,7 @@ namespace XiaLM.FormTest.MicrosoftSpeech
             string _pitch = this.tBoxPitch.Text.Trim();
             Task.Factory.StartNew(async () =>
             {
-                TtsClient ttsClient = new TtsClient("3a1ec26757b94a84af648ac1f88cb95f");
+                TtsClient ttsClient = new TtsClient("0549ec95cfb14f9f911562949117c4e3");
                 ttsClient.SynthesizeSuccessEvent += (s) =>  //合成成功
                 {
                     SoundPlayer player = new SoundPlayer(new MemoryStream(s));

@@ -35,7 +35,8 @@ namespace XiaLM.MicrosoftSpeech.SpeedTTS
         /// <summary>
         /// 服务请求路径【勿轻易改动】(默认路径：https://westus.tts.speech.microsoft.com/cognitiveservices/v1)
         /// </summary>
-        public Uri RequestUri { get; set; } = new Uri("https://speech.platform.bing.com/synthesize");
+        //public Uri RequestUri { get; set; } = new Uri("https://speech.platform.bing.com/synthesize");
+        public Uri RequestUri { get; set; } = new Uri("https://eastasia.tts.speech.microsoft.com/cognitiveservices/v1");
 
         /// <summary>
         /// 音频输出格式【勿轻易改动】(默认：riff-24khz-16bit-mono-pcm格式)
